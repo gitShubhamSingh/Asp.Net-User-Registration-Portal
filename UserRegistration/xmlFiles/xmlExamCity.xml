@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<examCities>
+  <City>
+    <Name>Ahemdabad</Name>
+    <Value>1</Value>
+  </City>
+  <City>
+    <Name>Varanasi</Name>
+    <Value>2</Value>
+  </City>
+  <City>
+    <Name>Allahabad</Name>
+    <Value>3</Value>
+  </City>
+  <City>
+    <Name>Delhi</Name>
+    <Value>4</Value>
+  </City>
+  <City>
+    <Name>Mumbai</Name>
+    <Value>5</Value>
+  </City>
+</examCities>
